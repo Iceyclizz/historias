@@ -1,0 +1,16 @@
+2024/02/11-15:09:02.335 1100 Recovering log #72
+2024/02/11-15:09:02.344 1100 Delete type=0 #72
+2024/02/11-15:09:02.344 1100 Delete type=3 #71
+2024/02/11-15:11:27.080 13d4 Level-0 table #76: started
+2024/02/11-15:11:27.080 13d4 Level-0 table #76: 0 bytes OK
+2024/02/11-15:11:27.082 13d4 Delete type=0 #74
+2024/02/11-15:11:27.090 13d4 Manual compaction at level-0 from '!messages!01GMPnN7CPjaS1gh' @ 72057594037927935 : 1 .. '!messages!zzFJ9WgVwQ28UNAm' @ 0 : 0; will stop at '!messages!Gsm9ZVIShpKZL4Dn' @ 3955 : 1
+2024/02/11-15:11:27.090 13d4 Compacting 3@0 + 1@1 files
+2024/02/11-15:11:27.170 13d4 Generated table #77@0: 4324 keys, 1382909 bytes
+2024/02/11-15:11:27.171 13d4 Compacted 3@0 + 1@1 files => 1382909 bytes
+2024/02/11-15:11:27.173 13d4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/11-15:11:27.175 13d4 Delete type=2 #55
+2024/02/11-15:11:27.176 13d4 Delete type=2 #59
+2024/02/11-15:11:27.176 13d4 Delete type=2 #62
+2024/02/11-15:11:27.177 13d4 Delete type=2 #65
+2024/02/11-15:11:27.180 13d4 Manual compaction at level-0 from '!messages!Gsm9ZVIShpKZL4Dn' @ 3955 : 1 .. '!messages!zzFJ9WgVwQ28UNAm' @ 0 : 0; will stop at (end)

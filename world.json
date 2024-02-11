@@ -1,0 +1,30 @@
+{
+  "title": "Historias de neon y acero",
+  "id": "historias-de-neon-y-hacero",
+  "system": "dnd5e",
+  "coreVersion": "11.302",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.302"
+  },
+  "systemVersion": "2.2.1",
+  "packs": [
+    {
+      "label": "jugadores historias de neon",
+      "type": "Actor",
+      "name": "jugadores-historias-de-neon",
+      "path": "packs/jugadores-historias-de-neon",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "background": "5c5f467ae762419c60aaf1300e5dd397.jpg",
+  "joinTheme": "default",
+  "lastPlayed": "Sun Feb 11 2024 15:11:34 GMT+0100 (hora estándar de Europa central)",
+  "safeMode": false,
+  "playtime": 1269
+}
